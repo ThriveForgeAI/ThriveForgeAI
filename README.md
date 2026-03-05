@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Miracle Alaba 👋
 
-<!--
-**ThriveForgeAI/ThriveForgeAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Builder & Architect helping B2B and capital-intensive businesses 
+eliminate manual workflows, generate leads, and deploy intelligent systems — 
+without bloated tech stacks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Build
+
+- **AI Automation Workflows** — n8n-based pipelines for lead generation, outreach, and client onboarding
+- **Voice AI Agents** — Conversational agents for medical practices, home services, and real estate
+- **Lead Generation Systems** — Automated cold outreach via LinkedIn, email, and Meta — integrated with Airtable
+- **AI-Powered Business Tools** — Claude + Trigger.dev agents for strategic ops and capital efficiency
+
+---
+
+## 🚀 Current Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [ThriveForge-AI](https://github.com/ThriveForgeAI/ThriveForge-AI) | Lead Strategist Agent — automated B2B lead generation system | TypeScript, Claude, Trigger.dev |
+
+---
+
+## 🛠 Tech Stack
+
+`n8n` `TypeScript` `Python` `Claude API` `Airtable` `GCP` `Netlify` `Node.js` `Groq` `Trigger.dev`
+
+---
+
+## 📬 Connect
+
+- 🌐 [thriveconsultinghq.com](https://thriveconsultinghq.com)
+- 🐦 [@HeisMiraculous](https://x.com/HeisMiraculous)
+- 💼 [linkedin.com/in/heismiracle](https://linkedin.com/in/heismiracle)
