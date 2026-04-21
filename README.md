@@ -15,6 +15,8 @@
 
 <br clear="both"/>
 
+<img src="https://raw.githubusercontent.com/ThriveForgeAI/ThriveForgeAI/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="25"/> Let's Stay Connected:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heismiracle)
