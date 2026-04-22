@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:6d28d9&height=220&section=header&text=Miracle&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Building%20intelligent%20systems%20that%20move%20businesses%20forward&descSize=17&descColor=e2d9f3&descAlignY=57&animation=fadeIn" width="100%" alt="Miracle Banner"/>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> Hi, I'm [Miracle](https://agenticworkos.com)! <img src="https://komarev.com/ghpvc/?username=ThriveForgeAI&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" align="right"/>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> Hi, I'm [Miracle](https://agenticworkos.com)! <img src="https://komarev.com/ghpvc/?username=AlabaMiracle&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" align="right"/>
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
 
@@ -9,13 +9,13 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="20"/> Based in **London** <br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20"/> Explore My Work: [**agenticworkos.com**](https://agenticworkos.com) <br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="20"/> Contact me @: [**miracle@thriveconsultinghq.com**](mailto:miracle@thriveconsultinghq.com) <br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="20"/> Currently building **real-time data apps, financial apps, healthcare automation** <br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="20"/> Currently building **real-time data, fintech & healthcare apps** <br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="20"/> Exploring **AI** to create smarter user experiences <br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"/> Always diving into **new tech** to stay ahead
 
 <br clear="both"/>
 
-<img src="https://raw.githubusercontent.com/ThriveForgeAI/ThriveForgeAI/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/AlabaMiracle/AlabaMiracle/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="25"/> Let's Stay Connected:
 
@@ -81,5 +81,6 @@
 &nbsp;
 
 <p align="center">
-  <a href="https://github.com/ThriveForgeAI"><img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub"/></a>
+  <a href="https://github.com/AlabaMiracle"><img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub"/></a>
 </p>
+
